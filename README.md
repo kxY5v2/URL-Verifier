@@ -4,4 +4,4 @@ Change the df = pd.read_csv(' ADD YOUR FILE HERE ') to the location of your CSV 
 The program will create the file of broken links for you. Or you can change the output file to the file of your choice.
 
 The file does not check for duplicate entries in the file.
-
+The test-file.csv is an optional file you can use to test the program on.
